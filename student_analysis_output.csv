@@ -1,0 +1,11 @@
+Student_ID,Student_Name,English,Mathematics,Science,Computer,Economics,Total,Percentage,Result,Grade
+101,Aarav,78,85,82,90,76,411,82.2,PASS,A+
+102,Diya,88,91,84,95,89,447,89.4,PASS,A+
+103,Kabir,67,72,75,80,69,363,72.6,PASS,A
+104,Anaya,92,96,94,98,93,473,94.6,PASS,A+
+105,Ishaan,74,68,71,76,73,362,72.4,PASS,A
+106,Meera,85,79,88,91,82,425,85.0,PASS,A+
+107,Rohan,59,63,60,70,65,317,63.4,PASS,B
+108,Sara,95,98,97,99,96,485,97.0,PASS,A+
+109,Vivaan,81,88,85,89,84,427,85.4,PASS,A+
+110,Tara,90,86,92,94,91,453,90.6,PASS,A+
